@@ -1,3 +1,5 @@
+How to install
+
 # First, update your termux by these commands
 
 ```

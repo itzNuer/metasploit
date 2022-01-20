@@ -1,9 +1,9 @@
 # requirements : 
-```
+
 - Your android version should be more than 5.0.
 - Termux app: if you don't have termux app [DOWNLOAD TERMUX](https://www.youtube.com/channel/UC3hayTOYcNrOg7lBw_lN_7g)
 - Free space of 3GB on your device.
-```
+
 
 # How to install
 

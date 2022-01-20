@@ -24,3 +24,5 @@ apt-get update
 ```
 pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Nethunter/nethunter.sh && bash nethunter.sh
 ```
+
+# After Executing that Command, you need internet connection, it may take a while, until then, you can leave termux in your background and use your phone!

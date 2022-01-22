@@ -11,7 +11,7 @@
 - Free space of `3GB` on your device.
 
 
-# 📲 `How to install`
+# `How to install`
 
 # 😄 First, update your termux by these commands
 
@@ -39,7 +39,7 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 ./start-nethunter.sh
 ```
 
-### 🎃 you will get `root acces` and `kali linux` on your termux, lauch `metasploit` by 🔰
+### 🎃 you will get `root acces` and `kali linux` on your termux, lauch `metasploit` by
 
 ```
 msfconsole

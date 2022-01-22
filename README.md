@@ -6,12 +6,12 @@
 
 # 🧾 Requirements : 
 
-- Your android version should be more than 5.0.
-- Termux app: if you don't have termux app [DOWNLOAD TERMUX](https://www.youtube.com/channel/UC3hayTOYcNrOg7lBw_lN_7g)
-- Free space of 3GB on your device.
+- Your android version should be more than `5.0.`
+- `Termux app`: if you don't have `termux`, `[DOWNLOAD TERMUX](https://www.youtube.com/channel/UC3hayTOYcNrOg7lBw_lN_7g)`
+- Free space of `3GB` on your device.
 
 
-# 📲 How to install
+# 📲 `How to install`
 
 # 😄 First, update your termux by these commands
 
@@ -31,7 +31,7 @@ apt-get update
 pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Nethunter/nethunter.sh && bash nethunter.sh
 ```
 
-### 😏 After Executing that Command, you need internet connection, it may take a while, until then, you can leave termux in your background and use your phone!
+### 😏 After Executing that Command, you `need internet connection`, it may take a while, until then, you can leave termux in your background and use your phone!
 
 ### 🙃 After the downloading is done, type this command
 
@@ -39,12 +39,12 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 ./start-nethunter.sh
 ```
 
-### 🎃 you will get root acces and kali linux on your termux, lauch metasploit by 🔰
+### 🎃 you will get `root acces` and `kali linux` on your termux, lauch `metasploit` by 🔰
 
 ```
 msfconsole
 ```
 
-# 😴 It will take some time, have patience
+# 😴 It will take `some time`, have `patience`
 
-## 🙋‍♂️ after its done, Congo you have metasploit in your termux!
+## 🙋‍♂️ after its done, Congo you have `metasploit` in your `termux!`

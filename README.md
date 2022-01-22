@@ -1,12 +1,8 @@
- <img src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw" alt="termux" class="center">
+<p align="center" width="100%">
+    <img width="33%" src="https://play-lh.googleusercontent.com/m3oqSZCwmitiZ-Im-CQu_rqT5eLHilOp5IudBynv3COJUumFzuQaP2dgTDxRL_03f4x2=s180-rw">
+</p>
 
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+
 
 # Requirements : 
 

@@ -25,4 +25,20 @@ apt-get update
 pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Nethunter/nethunter.sh && bash nethunter.sh
 ```
 
-# After Executing that Command, you need internet connection, it may take a while, until then, you can leave termux in your background and use your phone!
+### After Executing that Command, you need internet connection, it may take a while, until then, you can leave termux in your background and use your phone!
+
+### After the downloading is done, type this command
+
+```
+./start-nethunter.sh
+```
+
+### you will get root acces and kali linux on your termux, lauch metasploit by :-
+
+```
+msfconsole
+```
+
+# It will take some time, have patience 
+
+## after its done, Congo you have metasploit in your termux!

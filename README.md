@@ -12,8 +12,7 @@
 
 
 # 📲 How to install
-<br>
-<br>
+
 # 😄 First, update your termux by these commands
 
 ```

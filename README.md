@@ -11,7 +11,7 @@
 - Free space of 3GB on your device.
 
 
-# 📲 How to install\
+# 📲 How to install
 
 # 😄 First, update your termux by these commands
 

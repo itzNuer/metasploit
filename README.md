@@ -46,5 +46,4 @@ msfconsole
 ```
 
 ### 😴 It will take `some time`, have `patience`
-<Br>
 ### 🙋‍♂️ after its done, Congo you have `metasploit` in your `termux!`
